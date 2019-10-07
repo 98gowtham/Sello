@@ -1,0 +1,254 @@
+
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Open+Sans|Poppins|Righteous|Roboto+Condensed|Ubuntu&display=swap');
+
+body{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Poppins';
+}
+.navbar-brand{
+    font-family: 'Poppins';
+    font-size: 35px;
+    color: black;
+}
+.nav-link{
+    font-size: 16px;
+    margin: 15px;
+    color: black;
+    font-family: 'Poppins';
+}
+.nav-link:hover{
+    color: antiquewhite;
+}
+
+.active .nav-link{
+    color: black;
+}
+.carousel-inner{
+    color: black;
+    background-color: #EFEFEF;
+}
+.carousel-inner-ig{
+}
+.carousel-item-ig{
+    max-height: 100%;
+    background: no-repeat right;
+    background-size: auto;
+    margin-bottom: 0px;
+}
+.carousel-caption-ig{ 
+    max-width: 100%;
+}
+/*.vertical-text {
+    transform: rotate(270deg);
+    color: dimgray;
+    text-align: start;
+}*/
+.carousel-caption {
+  float: left;
+  width: 85%;
+  
+}
+.carousel-item{
+    height: 80vh;
+    min-height: 300px;
+    background: no-repeat center;
+    background-size: auto;
+    margin-bottom: 60px;
+}
+.header{
+    color: black;
+    text-align: justify;
+}
+.para{
+    color: black;
+    font-size: 14px;
+    
+}
+.parab{
+    color: white;
+    font-size: 14px;
+    
+}
+.img-fluid{
+    max-width:100%;
+    max-height:100%;
+    background-color: #EFEFEF;
+}
+.spacing{
+    margin: 60px;
+}
+.par{
+    text-align: right;
+}
+.img-fluid-side{
+    max-width:100%;
+    max-height:100%;
+    /*background-color: #EFEFEF;*/
+    margin: 150px 100px ;
+}
+.img-fluid-sd{
+    max-width:100%;
+    max-height:100%;
+    /*background-color: #EFEFEF;*/
+    margin: 0px 36px;
+}
+.img-fluid-cont{
+    margin-left: 140px;
+    max-width: 960px;
+}
+.colms{
+    margin-left: 180px;
+    text-align: left;
+}
+.row{
+    margin: auto;
+}
+.col-sm{
+    margin: 5px;
+}
+.col-md{
+    margin: 5px;
+}
+.img-fluid-png{
+    height: 450px;
+    width: 290px;
+}
+.p{
+    font-size: 14px;
+    color: black;
+    text-align: justify;
+}
+.text-block {
+  position: absolute;
+  bottom: 80px;
+  left: 25px;
+  background-color: white;
+  color: black;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+    max-height: 25px;
+    width:60px;
+}
+.col-xl{
+    height: 200px;
+    max-width: 300px;
+    margin-left: 130px;
+    margin-top: 40px;
+    margin-bottom: 140px;
+}
+.img-fluid-xd{
+    width: 500px;
+}
+.col-xr{
+    height: 200px;
+    max-width: 300px;
+    margin-right: 180px;
+    margin-top: 40px;
+    margin-bottom: 140px;
+}
+.text-block-top {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  background-color: black;
+  color: white;
+  max-height: 25px;
+    width: 60px;
+    text-align: center;
+}
+.text-block-op {
+  position: relative;
+  bottom: 220px;
+  left: 40px;
+  right: 20px;
+  background-color: opaque;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.text-block-ot {
+  position: relative;
+  bottom: 220px;
+  left: 360px;
+  right: 20px;
+  background-color: opaque;
+  color: white;
+    text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.text-block-ig {
+  position: relative;
+    bottom: 75px;
+  background-color: opaque;
+  color: white;
+  text-align: center;
+  padding: 0px;
+}
+.button{
+      background-color: black;
+      border: none;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+    padding: 12px 28px;
+}
+.img-footer{
+    max-width: 90px;
+    max-height: 90px;
+}
+.para-foot{
+    font-size: 14px;
+}
+.panel-footer{
+    background-color: #EFEFEF;
+}
+.list-unstyled{
+    text-align: left;
+}
+.container-ss{
+    margin-left: 200px;
+}
+.container-ig{
+    margin: 0px;
+    padding: 0px;
+}
+.img-ig{
+   margin: 0px;
+    max-width: 142px;
+    max-height: 150px;
+}
+.col-sm-ig{
+    margin: 0px;
+}
+.col-3{
+    margin: 36px;
+    
+}
+.img-fluid-sy{
+    height: 200px;
+    width: 300px;
+    margin: 0px;
+}
+.text-block-top-rt{
+  position: relative;
+  top: -160px;
+  left: -10px;
+  background-color: opacity;
+  color: white;
+  max-height: 20px;
+    width: 60px;
+    text-align: center;
+}
+.para-sy{
+    color: black;
+    font-size: 14px;
+    top: 140px;
+}
